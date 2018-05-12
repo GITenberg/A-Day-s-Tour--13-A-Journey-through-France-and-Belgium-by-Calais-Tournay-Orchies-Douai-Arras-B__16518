@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '24906'
     url: http://www.gutenberg.org/2009/agents/24906
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16518#A-Day-s-Tour--13-A-Journey-through-France-and-Belgium-by-Calais-Tournay-Orchies-Douai-Arras-B_
 gutenberg_bookshelf: France
 gutenberg_issued: '2005-08-12'
 gutenberg_type: Text
