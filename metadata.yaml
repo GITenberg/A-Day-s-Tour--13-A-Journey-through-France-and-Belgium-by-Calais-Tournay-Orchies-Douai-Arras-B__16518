@@ -1,0 +1,32 @@
+_repo: A-Day-s-Tour--13-A-Journey-through-France-and-Belgium-by-Calais-Tournay-Orchies-Douai-Arras-B__16518
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fitzgerald, Percy Hetherington
+    alias: Dyce, Gilbert
+    birthdate: 1834
+    deathdate: 1925
+    gutenberg_agent_id: '24906'
+    url: http://www.gutenberg.org/2009/agents/24906
+description: ''
+gutenberg_bookshelf: France
+gutenberg_issued: '2005-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels'
+- !lcc 'DC'
+- !lcsh 'Belgium -- Description and travel'
+- !lcc 'DH'
+- !lcsh 'France -- Description and travel'
+title: "A Day's Tour\r\nA Journey through France and Belgium by Calais, Tournay, Orchies,\
+  \ Douai, Arras, Béthune, Lille, Comines, Ypres, Hazebrouck, Berg"
+url: http://www.gutenberg.org/ebooks/16518
